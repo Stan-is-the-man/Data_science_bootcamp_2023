@@ -1,9 +1,8 @@
 
-Welcome to the Python for Data Science Bootcamp: From Zero to Hero. In this course, we're going to learn how to use Python for Data Science. In this practical course, we'll learn how to collect data, clean data, make visualizations and build a machine learning model using Python.
+Welcome to the Python for Data Science Bootcamp: From Zero to Hero. 
+In this course, we're going to learn how to use Python for Data Science. 
+In this practical course, we'll learn how to collect data, clean data, make visualizations and build a machine learning model using Python.
 
-The main goal of this course is to take your programming and analytical skills to the next level to build your career in Data Science. To achieve this goal, we're going to solve hundreds of exercises and many cool projects that will help you put into practice all the programming concepts used in Data Science.
-
-We'll learn the top Python Libraries used in Data Science such as Pandas, Numpy and Scikit Learn and we will use them to learn to solve tasks data scientists  deal with on a daily basis (Data Cleaning, Data Visualization, Data Collection and Model Building)
 
 This course covers 4 main sections.
 
